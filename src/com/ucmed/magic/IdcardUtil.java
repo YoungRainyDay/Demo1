@@ -23,8 +23,6 @@ import java.util.Map;
  * </li>
  * </ol>
  * 
- * @author jiangm
- * @since 2012-11-27
  * 
  */
 public class IdcardUtil {
