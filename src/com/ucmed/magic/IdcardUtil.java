@@ -1,4 +1,5 @@
 package com.ucmed.magic;
+
 import java.util.Calendar;
 import java.util.HashMap;
 import java.util.Map;
